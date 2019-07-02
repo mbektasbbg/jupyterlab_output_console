@@ -1,0 +1,29 @@
+.lab-console-ext-widget {
+    overflow-y: auto;
+}
+
+.lab-console-log-line {
+    border-bottom: 1px solid #202020;
+    padding: 2px;
+    font-size: 13px;
+}
+
+.lab-console-log-line .log-count {
+    display: inline-block;
+    width: 30px;
+    padding-right: 3px;
+    color: #6b6b6b;
+    text-align: right;
+}
+
+.lab-console-log-line .log-time {
+    display: inline-block;
+    width: 90px;
+    padding-left: 3px;
+    color: #949494;
+}
+
+.lab-console-log-line .log-content {
+    display: inline-block;
+    color: #eeeeee;
+}
